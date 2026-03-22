@@ -17,3 +17,9 @@ Projeto de IA simples criado do zero por mim.
 
 ---
 Projeto em constante evolução 🚀
+
+## 👨‍💻 Autor
+Wendell
+
+## 📌 Objetivo
+Evoluir continuamente minhas habilidades em programação e construir projetos reais.
